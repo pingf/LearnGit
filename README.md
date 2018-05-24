@@ -2,4 +2,4 @@
 learn git
 
 
-added by dameng
+add dameng from github
